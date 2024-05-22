@@ -1,0 +1,10 @@
+filter_sorter "<input_path>" "<config_path>" "<output_path>"
+
+
+Configurations:
+
+Search Conditions:
+- Contains, startsWith, endsWith, exact, All, withValue, beforeDate, afterDate, dateRange
+
+Search Actions:
+- Keep, Remove, Replace, paddLeft, paddRight, addPrefix
